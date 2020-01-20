@@ -52,7 +52,7 @@ def rec_coin_dynam(target, coins, know_results):
     return min_coins    
 
 
-target = 74
+target = 5
 coins = [1,5,10,25]
 known_results = [0]*(target+1)
 
